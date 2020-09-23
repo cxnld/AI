@@ -9,4 +9,4 @@
 
 #### The computer aims to avoid losing, draws and wins are favored equally.
 
-<img src="/preview.png" width="70%"/>
+<img src="/preview.PNG" width="70%"/>
