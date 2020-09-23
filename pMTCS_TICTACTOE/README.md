@@ -9,4 +9,5 @@
 
 #### The computer aims to avoid losing, draws and wins are favored equally.
 
-![Test Image 1](/preview.png)
+
+![Test Image 1](/pMTCS_TICTACTOE/preview.png)
