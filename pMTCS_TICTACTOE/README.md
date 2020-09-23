@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-# Pure Monte Carlos Tree Search
+## Pure Monte Carlos Tree Search
 
 ##### General Algorithm:
 ##### - each time it's the computers turn, simulate random playouts for each legal move
