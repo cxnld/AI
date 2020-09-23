@@ -10,3 +10,5 @@
 #### The computer aims to avoid losing, draws and wins are favored equally.
 
 <img src="/preview.PNG" width="70%"/>
+
+![Test Image 1](preview.png)
